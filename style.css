@@ -1,0 +1,18 @@
+body{
+    /* we'll add our styling here */
+    background-color:darkseagreen;
+
+}
+#container{
+    text-align:center;
+}
+
+
+
+.button:hover{
+    background-color: red;
+}
+
+ul{
+    list-style-type: none;
+}
